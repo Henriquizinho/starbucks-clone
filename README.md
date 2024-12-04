@@ -23,7 +23,9 @@ Este é um projeto simples de clonagem da página inicial do Starbucks. O objeti
 
 
 ## ❤️ Resultado final
-![Captura de tela 2024-12-03 153105](https://github.com/user-attachments/assets/a2f4dabc-bdfa-4cf3-9678-4c56417e4944)
+https://github.com/user-attachments/assets/569a86ed-d4d9-46f6-b59e-081821701c62
+
+
 
 
 
